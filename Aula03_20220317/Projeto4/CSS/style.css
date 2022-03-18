@@ -1,0 +1,27 @@
+/*
+CSS do Site
+Author Willyan Pereira
+
+Padrão de Cores: 
+E5E3C9 - Cinza Claro
+B4CFB0 - Verde Azulado Claro
+94B49F - Verda Azulado Escuro
+789395 - Azul Pastel 
+*/
+
+
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 45pt;
+    background-color: 789395;
+    padding: 30px;
+    margin: 60px;
+    text-align: center;
+    color: E5E3C9;
+    width: 400px;
+}
+.destaque{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20pt;
+}
